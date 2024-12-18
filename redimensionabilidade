@@ -1,6 +1,16 @@
 {
   "cells": [
     {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/AkyLast/reducao-de-dimensionalidade/blob/main/redimensionabilidade\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
       "cell_type": "code",
       "source": [
         "from PIL import Image"
@@ -89,11 +99,11 @@
         "print(redimencionar)"
       ],
       "metadata": {
-        "id": "mG_4HZHJoG5R",
-        "outputId": "23a8a6f5-f73d-4dc6-aa52-d1744ffc98cb",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "mG_4HZHJoG5R",
+        "outputId": "23a8a6f5-f73d-4dc6-aa52-d1744ffc98cb"
       },
       "execution_count": 32,
       "outputs": [
@@ -110,7 +120,8 @@
   "metadata": {
     "colab": {
       "name": "Olá, este é o Colaboratory",
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "display_name": "Python 3",
